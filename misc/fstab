@@ -1,0 +1,2 @@
+# append this line
+/dev/nvme1n1       /data   ext4    defaults,nofail        0       2

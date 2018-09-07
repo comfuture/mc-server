@@ -1,0 +1,4 @@
+#!/bin/bash
+/home/ubuntu/bin/attach_volume.sh
+/home/ubuntu/bin/update_dns.sh
+
